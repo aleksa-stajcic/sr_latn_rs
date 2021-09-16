@@ -1,1 +1,3 @@
-This is a customized version of the mageplaza serbian lang translation package.
+```
+How to update the pack with new phrases
+```
