@@ -1,6 +1,5 @@
 {
     "name": "aleksa-stajcic/sr_latn_rs",
-    "version": "1.0.0",
     "type": "magento2-language",
     "description": "sr_Latn_RS language package.",
     "minimum-stability": "stable",
