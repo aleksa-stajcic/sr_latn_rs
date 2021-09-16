@@ -1,6 +1,6 @@
 {
     "name": "aleksa-stajcic/sr_latn_rs",
-    "version": "0.0.8",
+    "version": "1.0.0",
     "type": "magento2-language",
     "description": "sr_Latn_RS language package.",
     "license": [
