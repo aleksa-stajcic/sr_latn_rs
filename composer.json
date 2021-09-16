@@ -1,0 +1,21 @@
+{
+    "name": "aleksa-stajcic/sr_latn_rs",
+    "version": "0.0.8",
+    "type": "magento2-language",
+    "description": "sr_Latn_RS language package.",
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
+    "config": {
+        "sort-packages": true
+    },
+    "require": {
+        "magento/framework": "*"
+    },
+    "autoload": {
+        "files": [
+            "registration.php"
+        ]
+    }
+}
