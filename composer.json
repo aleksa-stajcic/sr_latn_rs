@@ -3,6 +3,7 @@
     "version": "1.0.0",
     "type": "magento2-language",
     "description": "sr_Latn_RS language package.",
+    "minimum-stability": "stable",
     "license": [
         "OSL-3.0",
         "AFL-3.0"
