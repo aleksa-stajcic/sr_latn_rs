@@ -1,3 +1,1 @@
-```
-How to update the pack with new phrases
-```
+Magento 2 Serbian (Latin) language pack
