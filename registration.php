@@ -7,4 +7,4 @@ declare(strict_types=1);
 
 use \Magento\Framework\Component\ComponentRegistrar;
 
-ComponentRegistrar::register(ComponentRegistrar::LANGUAGE, 'communityengineering_sr_latn_rs', __DIR__);
+ComponentRegistrar::register(ComponentRegistrar::LANGUAGE, 'aleksa-stajcic_sr_latn_rs', __DIR__);
